@@ -15,7 +15,7 @@ accounting*. Using these statements, I’ll define, calculate, and interpret com
 *liquidity, solvency, activity, profitability, and market price ratios*.
 
 Then I’ll move into investment finance topics, especially the *risk–return relationship and diversification*. I’ll learn
-what kinds of risk are actually priced and review major asset pricing models like the *Capital Asset Pricing Model 
+what kinds of risk are actually priced and review major asset pricing models like the *Capital Asset Pricing Model
 (CAPM)*, *Arbitrage Pricing Theory (APT)*, and an *empirical asset pricing model*.
 
 After that, I’ll study market mechanics: the types of orders I can place, how the order book works, how orders execute,
@@ -62,7 +62,7 @@ main downside is that it relies on judgments and estimates, making it less objec
 the idea that cash flow is a fact, while earnings involve opinion. Because of this discretion, financial statements
 follow formal rules and are audited by external auditors.
 
-## The Balance Sheet
+## III. The Balance Sheet
 
 ___
 
@@ -165,3 +165,36 @@ based on timing:
 Since Amazon’s total assets were previously identified as \$65.44B, liabilities account for \$52.06B of the resources
 used. The remaining \$13.37B comes from shareholders’ equity.
 
+### Shareholders’ Equity
+
+Shareholders’ equity (also called net worth) represents the residual ownership interest of shareholders in the company.
+
+Key parts of shareholders’ equity are:
+
+- **Common equity (most important form of equity):** Common shareholders have voting rights and therefore control
+  ownership decisions, including electing the board of directors, which appoints senior executives who oversee
+  day-to-day operations. Amazon had close to 500 million common shares outstanding at the end of 2015 with a par value
+  of \$0.01 each, giving a par-value total of about \$5 million (`500M x 0.01`).
+- **Additional paid-in capital (APIC):** Since shares are typically issued at above par value, the premium received is
+  recorded as additional paid-in capital. Amazon reported \$13.39B in APIC at the end of 2015.
+- **Treasury stock:** Treasury stock is common stock repurchased by the company (or authorized but not sold) and is
+  recorded at cost. It is deducted from equity because it has no voting rights and pays no dividends, and it should not
+  be counted as shares outstanding. Amazon reported \$1.84B in treasury stock.
+- **Preferred stock (preferred equity):** Preferred shareholders have priority over common shareholders for dividends,
+  but typically do not have voting rights. Amazon was authorized to issue preferred shares but had issued none by the
+  end of 2015, so preferred equity is \$0 on the balance sheet.
+- **Retained earnings:** Retained earnings are the cumulative total of undistributed profits over time. Management
+  decides how much profit (if any) is paid out as dividends; what is not distributed is added to retained earnings.
+  Amazon reported \$2.55B in retained earnings at the end of 2015.
+- **Accumulated other comprehensive loss (AOCI):** Amazon also reported \$0.72B of accumulated other comprehensive loss,
+  described as unrealized gains and losses on investments in cash, cash equivalents, and marketable securities.
+
+Putting it together: the balance sheet balances. Summing the equity items, Amazon’s total shareholders’ equity is stated
+as about \$13.3B. When combined with total liabilities of \$52.06B, the total equals \$65.44B, matching total assets;
+demonstrating the balance sheet identity: `Assets = Liabilities + Shareholders’ Equity`.
+
+![Amazon Balance Sheet, end of 2015](assets/images/Amazon%20Balance%20Sheet%202015.jpg)
+
+## IV. The Income Statement
+
+___
