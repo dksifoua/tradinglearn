@@ -85,6 +85,8 @@ The balance sheet is called a "balance" sheet because it must always satisfy the
 equity reflect where those resources come from, and the two sides must always match. One thing to note is that balance
 sheet items are recorded at historical cost, meaning they generally are not updated to current market values.
 
+![Amazon Balance Sheet, end of 2015](assets/images/Amazon%20Balance%20Sheet%202015.jpg)
+
 ### Assets
 
 Assets show how a company uses its resources. They are split into:
@@ -193,8 +195,42 @@ Putting it together: the balance sheet balances. Summing the equity items, Amazo
 as about \$13.3B. When combined with total liabilities of \$52.06B, the total equals \$65.44B, matching total assets;
 demonstrating the balance sheet identity: `Assets = Liabilities + Shareholders’ Equity`.
 
-![Amazon Balance Sheet, end of 2015](assets/images/Amazon%20Balance%20Sheet%202015.jpg)
-
 ## IV. The Income Statement
 
 ___
+
+The income statement reports a company’s operating results over a period, mainly its revenues and costs. Amazon labels
+this statement the "consolidated statements of operations." It is especially important to analysts and investors because
+it indicates profitability. In basic terms, `net income (profit or loss) = revenues − expenses`.
+
+**Expensing vs. capitalizing**
+
+Assets and expenses as two ways of describing the use of company resources:
+
+- **Expensing** occurs when the benefits from using resources are realized in the same period. In that case, the full amount
+  is recorded as an expense on that period’s income statement.
+- **Capitalizing** occurs when the benefits are expected to be realized in future periods. Then the cost is recorded as an
+  asset on the balance sheet (rather than fully expensed immediately). Examples include PP&E and purchased
+  patents/trademarks.
+
+Capitalized items eventually become expenses through:
+
+- **Amortization:** spreading the asset’s cost over its useful life (e.g., a 5-year life means expensing 1/5 each year).
+  The most common form is **depreciation**, which applies to PP&E. 
+- **Impairment:** a one-time write-down when the asset’s value is substantially reduced (e.g., due to market forces or
+  damage). The write-down amount is recorded as an expense in the period the loss occurs. The key contrast is that
+  amortization is systematic and recurring, while impairment is event-driven and non-recurring.
+
+![Amazon Income Statement 2015](assets/images/Amazon%20Income%20Statement%202015.jpg)
+
+### Revenue (the "top line")
+
+The first item on the income statement is revenue/sales, often called the top line. Revenue includes income from the
+company’s primary operations, excluding income from things like investments (which appear later in the statement).
+
+For Amazon in 2015:
+- **Net product sales:** \$76.27B (sales from Amazon’s own inventory)
+- **Net service sales:** \$27.74B (largely Amazon’s share of revenue from third-party seller activity)
+- **Total net sales:** \$107.01B
+
+"Net" indicates sales after returns and customer discounts.
