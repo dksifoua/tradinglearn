@@ -97,7 +97,7 @@ Assets show how a company uses its resources. They are split into:
    into investment-related items and operating-related items:
 
     - **Cash and cash equivalents:** includes currency and bank balances plus highly liquid short-term investments
-      (generally with maturities of three months or less when purchased). Amazon reported \\$15.89B.
+      (generally with maturities of three months or less when purchased). Amazon reported \$15.89B.
     - **Marketable securities:** investments such as stocks and bonds that are less liquid than cash but can be
       converted to cash relatively easily. Amazon reported \$3.92B.
 
@@ -207,16 +207,18 @@ it indicates profitability. In basic terms, `net income (profit or loss) = reven
 
 Assets and expenses as two ways of describing the use of company resources:
 
-- **Expensing** occurs when the benefits from using resources are realized in the same period. In that case, the full amount
+- **Expensing** occurs when the benefits from using resources are realized in the same period. In that case, the full
+  amount
   is recorded as an expense on that period’s income statement.
-- **Capitalizing** occurs when the benefits are expected to be realized in future periods. Then the cost is recorded as an
+- **Capitalizing** occurs when the benefits are expected to be realized in future periods. Then the cost is recorded as
+  an
   asset on the balance sheet (rather than fully expensed immediately). Examples include PP&E and purchased
   patents/trademarks.
 
 Capitalized items eventually become expenses through:
 
 - **Amortization:** spreading the asset’s cost over its useful life (e.g., a 5-year life means expensing 1/5 each year).
-  The most common form is **depreciation**, which applies to PP&E. 
+  The most common form is **depreciation**, which applies to PP&E.
 - **Impairment:** a one-time write-down when the asset’s value is substantially reduced (e.g., due to market forces or
   damage). The write-down amount is recorded as an expense in the period the loss occurs. The key contrast is that
   amortization is systematic and recurring, while impairment is event-driven and non-recurring.
@@ -229,8 +231,66 @@ The first item on the income statement is revenue/sales, often called the top li
 company’s primary operations, excluding income from things like investments (which appear later in the statement).
 
 For Amazon in 2015:
+
 - **Net product sales:** \$76.27B (sales from Amazon’s own inventory)
 - **Net service sales:** \$27.74B (largely Amazon’s share of revenue from third-party seller activity)
 - **Total net sales:** \$107.01B
 
 "Net" indicates sales after returns and customer discounts.
+
+### Expenses
+
+1. **Cost of goods sold (COGS):**
+
+   The cost of goods sold (COGS) refers to the direct costs of producing goods (or preparing products for sale), such as
+   raw materials and direct labor. It excludes items like sales-force and distribution costs in the generic definition.
+
+   Amazon labels this line item as **cost of sales.** The transcript first defines COGS conceptually, then uses Amazon’s
+   reported figures:
+
+    - **Net sales (2015):** \$107.01B
+    - **Cost of sales / COGS (2015):** \$71.65B
+
+   This yields gross profit (or gross income), which is: `Gross profit = Revenue − COGS` = \$35.36B. Gross profit
+   measures how much profit remains after deducting costs directly tied to producing/selling goods or providing
+   services.
+
+2. **Selling, General & Administrative expenses (SG&A):**
+
+   They're indirect, day-to-day expenses required to run the business, including:
+    - **Salaries & Benefits:** Employee wages and contributions.
+    - **Rent & Utilities:** Office space, electricity, and internet.
+    - **Marketing & Advertising:** Promotion and sales commission costs.
+    - **Professional Fees:** Accounting and legal fees.
+
+   Another key part of SG&A is **Depreciation and Amortization (D&A) Expenses**. These are **non-cash expenses** (not
+   paid out to someone) allocating the cost of tangible and intangible assets over their useful life. These occur when
+   the cost of acquiring an asset is capitalized because the benefits from it are expected to extend beyond the current
+   accounting period. The number of years over which the cost is expected to be amortized is called the **useful life**
+   of the asset.
+    - **Depreciation** applies to tangible assets.
+    - **Amortization** applies to intangible assets.
+
+   For Amazon, SG&A is broken into:
+    - **Fulfillment:** \$13.41B (customer service and payment processing centers)
+    - **Marketing:** \$5.25B
+    - **General & administrative:** \$1.75B (payroll, professional, and litigation fees, other corporate costs)
+
+   So Amazon’s total SG&A = \$20.41B. Amazon does not separately report D&A on the income statement; it is implicitly
+   captured under the different components of SG&A. However, Amazon’s statement of cash flows reports D&A of about
+   \$6.28B for the end of 2015.
+
+3. **R&D/Technology/Content and total operating expenses**
+
+   Amazon reported **Technology and Content** costs of \$12.54B (including payroll and infrastructure costs tied to
+   applications, maintenance, platform development, merchandising, and content/category expansion). Other expenses are
+   reported as \$0.17B.
+
+   Operating Expenses (OPEX) = \$20.41B (SG&A) + \$12.54B (R&D/Technology/Content) + \$0.17B (Other Expenses) = \$32.12B
+
+   `Operating Profit = EBIT (Expense Before Interests and Taxes) = Gross Profit - OPEX` = \$2.23B
+
+   `EBITDA (Expense Before Interests, Taxes, Depreciation, and Amortization) = EBIT + Depreciation + Amortization` =
+   \$2.46B + \$6.28B = \$8.48B. This is a more relevant number in terms of profits made by a company.
+    
+   

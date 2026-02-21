@@ -1,4 +1,4 @@
-# Learn Trading
+# Learn Trading Strategies
 
 Learn to design, develop, and test your own Trading Strategy.
 
